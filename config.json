@@ -5,17 +5,17 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "MA"
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": ""
+    "title": "Trade"
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "edgeLabel": "Co-occurance",
+    "colorLabel": "Port",
+    "nodeLabel": "Character"
   },
   "features": {
     "search": true,
@@ -23,7 +23,7 @@
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
